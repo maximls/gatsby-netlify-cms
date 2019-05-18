@@ -1,11 +1,15 @@
 ---
-templateKey: 'about-page'
-path: /company
+templateKey: about-page
 title: About our company
 ---
+# This is George
 
-#This is about our company H1
-Just some text here
 
-##This is H2
+He is a goof!
+
+
+
+![](/img/img_0864.jpg)
+
+\##This is H2
 I think..
