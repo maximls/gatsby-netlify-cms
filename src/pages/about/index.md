@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About our values
+title: About our company
 aboutCustom: This is updated custom version!
 ---
 ### Shade-grown coffee
